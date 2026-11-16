@@ -14,11 +14,11 @@
 - **Linguagem:** C#
 - **Equipe:** até 5 integrantes (preencher nomes e responsabilidades reais)
 - **Integrantes e papéis:**
-  - [Nome 1] — programação do carro e física
-  - [Nome 2] — programação dos desafios, pontuação e QA
-  - [Nome 3] — cenário, pista, câmera e iluminação
-  - [Nome 4] — modelos, materiais, animação e áudio
-  - [Nome 5] — interface, documentação e integração
+  - Luiz Gustavo Silva Bartholo — programação do carro e física
+  - Luiz Gustavo Silva Bartholo — programação dos desafios, pontuação e QA
+  - [Nome] — cenário, pista, câmera e iluminação
+  - [Nome] — modelos, materiais, animação e áudio
+  - Felipe de Souza Santos — interface, documentação e integração
 - **Referências de gênero:** jogos de drift arcade e pistas industriais; usar apenas assets próprios ou com licença de uso adequada e crédito.
 
 ## 2. Conceito / visão geral
